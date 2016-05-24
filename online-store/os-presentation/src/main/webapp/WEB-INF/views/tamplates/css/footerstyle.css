@@ -1,0 +1,22 @@
+body {
+	font-family: Arial, San-Serif;
+	font-size: 100%;
+}
+
+.copyright {
+	margin: 0 auto;
+	max-width: 90em;
+    min-width: 75em;
+}
+
+.footer {
+	background-color: yellowgreen;
+	color: white;
+	padding: 5px 1000px;
+	margin-top: 20px;
+}
+
+p {
+	font-size: 13px;
+	line-height: 1.3em;
+}

@@ -1,0 +1,86 @@
+/* GENERAL STYLES */
+body {
+	font-family: Arial, San-Serif;
+	font-size: 100%;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+ul li {
+	list-style-type: none;
+	
+}
+a {
+	text-decoration: none;
+}
+.logo {
+	padding: 2px 0;
+	background-color: yellowgreen;
+	margin: 0 auto;
+	width: 130px;
+	height: 4.1em;
+	float: left;
+}
+
+.container1 {
+	margin: 0 auto;
+	max-width: 90em;
+    min-width: 75em;
+}
+
+.container-all {
+	margin: 0 auto;
+	max-width: 90em;
+    min-width: 75em;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 90em;
+    min-width: 75em;
+}
+
+/* HEADER */
+.header {
+	padding: 2px 0;
+	background-color: yellowgreen;
+}
+.header h1,
+.header h2 {
+	color: white;
+	text-align: center;
+}
+
+/* NAVIGATION */
+.page-navigation {
+	background-color: #222;
+	border-color: #101010;
+	min-height: 45px;
+
+}
+.page-navigation li {
+	float: left;
+	width: 200px;
+}
+
+.page-navigation li2 {
+	float: right;
+	width: 200px;
+}
+
+.page-navigation a {
+	display: block;
+	color: #9d9d9d;
+	line-height: 2.7em;
+	font-weight: bold;
+	text-align: center;
+}
+.page-navigation li a:hover {
+	color: yellowgreen;
+	background-color: black;
+}
+.page-navigation li2 a:hover {
+	color: yellowgreen;
+	background-color: black;
+}
